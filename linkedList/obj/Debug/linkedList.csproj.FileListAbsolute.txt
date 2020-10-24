@@ -1,0 +1,7 @@
+C:\Users\Yazid Zaidan Mujadid\source\repos\linkedList\linkedList\obj\Debug\linkedList.csprojAssemblyReference.cache
+C:\Users\Yazid Zaidan Mujadid\source\repos\linkedList\linkedList\obj\Debug\linkedList.csproj.CoreCompileInputs.cache
+C:\Users\Yazid Zaidan Mujadid\source\repos\linkedList\linkedList\bin\Debug\linkedList.exe.config
+C:\Users\Yazid Zaidan Mujadid\source\repos\linkedList\linkedList\bin\Debug\linkedList.exe
+C:\Users\Yazid Zaidan Mujadid\source\repos\linkedList\linkedList\bin\Debug\linkedList.pdb
+C:\Users\Yazid Zaidan Mujadid\source\repos\linkedList\linkedList\obj\Debug\linkedList.exe
+C:\Users\Yazid Zaidan Mujadid\source\repos\linkedList\linkedList\obj\Debug\linkedList.pdb
